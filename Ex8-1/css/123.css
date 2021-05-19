@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+    font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    background: url(../img/bei.png) no-repeat;
+}
+
+a {
+    text-decoration:none
+}
+
+.daohang {
+    height: 35px;
+    line-height: 31px;
+    background-color: #e3e4e5;
+}
+
+
+.daohang .w {
+    height: 30px;
+    line-height: 30px;
+    color: #999;
+}
+
+.w .s{
+    margin: 0 0 0 220px;
+}
+
+li {
+    list-style: none;
+    float: left;
+}
+
+ul {
+    float:right;
+    margin:2px 250px 0 0;
+}
+
+ul .mianfei{
+    color: #f10215;
+    padding-left: 10px;
+}
+
+.dingdan{
+    padding-left:10px;
+    padding-right: 10px;
+}
+
+.daohang li.shu{
+    overflow: hidden;
+    margin: 11px 0 50px 10px;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.daohang li.shu1{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+li a, .xiala1{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover, .xiala:hover, .xiala1{
+    color:red;
+}
+
+.xiala{
+    display: inline-block;
+}
+
+.xiala2{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    height: 180px;
+    width:300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.xiala2 a{
+    text-align: left;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.xiala2 a:hover{
+    background-color: #f1f1f1;
+}
+
+.xiala:hover .xiala2{
+    display: block;
+}
+
+.zi1{
+    width: 150px;
+    height: 80px;
+    float: left;
+}
+
+.zi2{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+
+.zi3{
+    width: 150px;
+    height: 80px;
+    float: left;
+}
+
+.zi4{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+
+.dixian{
+    width: 300px;
+    height: 110px;
+    border: 1px solid #ccc;
+}
+
+
+.daohang li.shu2{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.dingdan2{
+    padding-right: 10px;
+}
+
+.daohang li.shu3{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.dingdan3 a{
+    color: #f00;
+    padding-right: 10px;
+}
+
+.daohang li.shu4{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.dingdan4{
+    padding-right: 10px;
+}
+
+.daohang li.shu5{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.dingdan5{
+    padding-right: 10px;
+}
+
+.daohang li.shu6{
+    overflow: hidden;
+    margin: 11px 10px 30px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
